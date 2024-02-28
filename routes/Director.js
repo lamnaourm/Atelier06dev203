@@ -29,7 +29,7 @@ routes.put('/update/:name', (req, res) => {
     
 })
 
-routes.put('/delete/:name', (req, res) => {
+routes.delete('/delete/:name', (req, res) => {
     
 })
 
